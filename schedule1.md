@@ -2,7 +2,7 @@
 1.  Carlos (carloslane)
 2.  David S. (davidsodergren) / Marcus J. (marcus-d-jensen) / Kristian G. (kristiangrundstrom)
 3. Vincent Frank (vincefra)
-4. 
+4. Adam Bäckström (Quik1337)
 5. 
 6. 
 7. 
@@ -15,7 +15,7 @@
 | 10.00-10.10 |  Team 2       |
 | 10.15-10.25 |  Team 1       |
 | 10.30-10.40 |  Team 3       |
-| 10.45-10.55 |               |
+| 10.45-10.55 |  Team 4       |
 | 11.00-11.10 |               |
 | 11.15-11.25 |               |
 | 11.30-11.40 |               |
